@@ -123,3 +123,4 @@ Contrôle : avec `le=24` dans le schéma, `test_heure_24_refusee` est devenu rou
 `le=23`, il est redevenu vert.
 
 ## 7. Lien de la pull request
+https://github.com/samiabouchgl34-blip/logiai-api-tp/pull/1
